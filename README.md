@@ -55,15 +55,17 @@ in the variance calculations and visualizations. No values are hardcoded, ensuri
 
 # How to Use
 
+File: https://github.com/luketaulbee12/budget-vs-actuals/raw/refs/heads/main/Variance_Analysis.xlsx
+
 1. Open the Excel file.
 
-2. Modify the budget or actuals data in the respective sections.
+3. Modify the budget or actuals data in the respective sections.
 
-3. Use the month selector to filter the analysis.
+4. Use the month selector to filter the analysis.
 
-4. Observe the automatically updated variance calculations and graphs.
+5. Observe the automatically updated variance calculations and graphs.
 
-5. Identify key trends with conditional formatting and percentage variance calculations.
+6. Identify key trends with conditional formatting and percentage variance calculations.
 
 ****
 
