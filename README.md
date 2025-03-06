@@ -1,10 +1,13 @@
 **Budget vs Actuals Variance Analysis**
 
+****
+
 Overview
 
 This project is a Budget vs Actuals Variance Analysis built in Excel. The spreadsheet is fully dynamic, allowing users to modify budget or actuals data and see real-time updates 
 in the variance calculations and visualizations. No values are hardcoded, ensuring flexibility and accuracy in the analysis.
 
+****
 
 Features
 
@@ -16,6 +19,7 @@ Features
 
 * Month Selector: Uses data validation for selecting specific months.
 
+****
 
 Formula Usage:
 
@@ -31,6 +35,7 @@ Formula Usage:
 
 * Percentage Variances included as an additional metric
 
+****
 
 What I Learned
 
@@ -46,11 +51,7 @@ What I Learned
 
 * The benefit of incorporating percentage variances to add deeper insights into performance analysis.
 
-
-Credit
-
-This project was inspired by a tutorial from YouTube: Budget vs Actuals Variance Analysis.
-
+****
 
 How to Use
 
@@ -64,7 +65,14 @@ How to Use
 
 5. Identify key trends with conditional formatting and percentage variance calculations.
 
+****
 
 Future Improvements
 
 * Enhancing the dashboard with more interactive elements.
+
+****
+
+Credit
+
+This project was inspired by a tutorial from YouTube: Budget vs Actuals Variance Analysis - https://www.youtube.com/watch?v=9uFKAwIa3V0
