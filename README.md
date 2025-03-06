@@ -1,15 +1,15 @@
-**Budget vs Actuals Variance Analysis**
+# Budget vs Actuals Variance Analysis
 
 ****
 
-Overview
+## Overview
 
 This project is a Budget vs Actuals Variance Analysis built in Excel. The spreadsheet is fully dynamic, allowing users to modify budget or actuals data and see real-time updates 
 in the variance calculations and visualizations. No values are hardcoded, ensuring flexibility and accuracy in the analysis.
 
 ****
 
-Features
+# Features
 
 * Fully Linked Model: All calculations update automatically when values are changed.
 
@@ -21,7 +21,7 @@ Features
 
 ****
 
-Formula Usage:
+# Formula Usage:
 
 * SUM() for aggregating data
 
@@ -37,7 +37,7 @@ Formula Usage:
 
 ****
 
-What I Learned
+# What I Learned
 
 * The importance of dynamic linking in financial models to ensure accuracy and ease of updates.
 
@@ -53,7 +53,7 @@ What I Learned
 
 ****
 
-How to Use
+# How to Use
 
 1. Open the Excel file.
 
@@ -67,12 +67,12 @@ How to Use
 
 ****
 
-Future Improvements
+# Future Improvements
 
 * Enhancing the dashboard with more interactive elements.
 
 ****
 
-Credit
+# Credit
 
 This project was inspired by a tutorial from YouTube: Budget vs Actuals Variance Analysis - https://www.youtube.com/watch?v=9uFKAwIa3V0
